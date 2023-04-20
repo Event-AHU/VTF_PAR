@@ -33,7 +33,12 @@ If you find this work useful for your research, please cite the following papers
 
 If you have any questions about this work, please submit an issue or contact me via **Email**: wangxiaocvpr@foxmail.com or xiaowang@ahu.edu.cn. Thanks for your attention! 
 
-
-
+@inproceedings{zhu2023videoPAR,
+  title={Learning CLIP Guided Visual-Text Fusion Transformer for Video-based Pedestrian Attribute Recognition},
+  author={Jun Zhu, Jiandong Jin, Zihan Yang, Xiaohao Wu, Xiao Wang},
+  booktitle={Computer Vision and Pattern Recognition Workshop on NFVLR},
+  pages={***--***},
+  year={2023}
+}
 
 
