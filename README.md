@@ -16,7 +16,7 @@ Existing pedestrian attribute recognition (PAR) algorithms are mainly developed 
 
 * **MARS Dataset**: 
 
-* **Pre-trained Models**: 链接：https://pan.baidu.com/s/150t_zCW35YQHViKxsRIVzQ  提取码：glbd 
+* **Pre-trained Models (VTF-Pretrain.pth)**: 链接：https://pan.baidu.com/s/150t_zCW35YQHViKxsRIVzQ  提取码：glbd 
 
 
 
