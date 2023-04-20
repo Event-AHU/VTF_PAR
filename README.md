@@ -1,4 +1,3 @@
-<img src="https://github.com/Event-AHU/VTF_PAR/blob/main/figures/frameworkV4.jpg" width="600">
 
 
 # VTF_PAR
@@ -6,6 +5,7 @@
 [[Paper]()] 
 [[Workshop](https://nfvlr-workshop.github.io/)] 
 
+<img src="https://github.com/Event-AHU/VTF_PAR/blob/main/figures/frameworkV4.jpg" width="600">
 
 
 ## Datasets and Pre-trained Models 
@@ -23,16 +23,6 @@
 If you find this work useful for your research, please cite the following papers: 
 
 ```bibtex
-@article{zhu2023videoPAR,
-  title={Learning CLIP Guided Visual-Text Fusion Transformer for Video-based Pedestrian Attribute Recognition},
-  author={Jun Zhu, Jiandong Jin, Zihan Yang, Xiaohao Wu, Xiao Wang},
-  journal={arXiv},
-  year={2023}
-}
-```
-
-If you have any questions about this work, please submit an issue or contact me via **Email**: wangxiaocvpr@foxmail.com or xiaowang@ahu.edu.cn. Thanks for your attention! 
-
 @inproceedings{zhu2023videoPAR,
   title={Learning CLIP Guided Visual-Text Fusion Transformer for Video-based Pedestrian Attribute Recognition},
   author={Jun Zhu, Jiandong Jin, Zihan Yang, Xiaohao Wu, Xiao Wang},
@@ -40,5 +30,10 @@ If you have any questions about this work, please submit an issue or contact me 
   pages={***--***},
   year={2023}
 }
+```
+
+If you have any questions about this work, please submit an issue or contact me via **Email**: wangxiaocvpr@foxmail.com or xiaowang@ahu.edu.cn. Thanks for your attention! 
+
+
 
 
