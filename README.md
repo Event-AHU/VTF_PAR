@@ -2,7 +2,7 @@
 
 # VTF_PAR
 > **Learning CLIP Guided Visual-Text Fusion Transformer for Video-based Pedestrian Attribute Recognition**, Jun Zhu†, Jiandong Jin†, Zihan Yang, Xiaohao Wu, Xiao Wang († denotes equal contribution), CVPR-2023 Workshop@NFVLR (New Frontiers in Visual Language Reasoning: Compositionality, Prompts and Causality),  
-[[Paper]()] 
+[[arxiv](https://arxiv.org/abs/2304.10091)] 
 [[Workshop](https://nfvlr-workshop.github.io/)] 
 
 
