@@ -28,11 +28,11 @@ Existing pedestrian attribute recognition (PAR) algorithms are mainly developed 
 If you find this work useful for your research, please cite the following papers: 
 
 ```bibtex
-@inproceedings{zhu2023videoPAR,
+@inproceedings{zhu2023learning,
   title={Learning CLIP Guided Visual-Text Fusion Transformer for Video-based Pedestrian Attribute Recognition},
-  author={Jun Zhu, Jiandong Jin, Zihan Yang, Xiaohao Wu, Xiao Wang},
-  booktitle={Computer Vision and Pattern Recognition Workshop on NFVLR},
-  pages={***--***},
+  author={Zhu, Jun and Jin, Jiandong and Yang, Zihan and Wu, Xiaohao and Wang, Xiao},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={2625--2628},
   year={2023}
 }
 ```
