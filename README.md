@@ -1,8 +1,9 @@
 
 
 # VTF_PAR
-> **Learning CLIP Guided Visual-Text Fusion Transformer for Video-based Pedestrian Attribute Recognition**, Jun Zhu†, Jiandong Jin†, Zihan Yang, Xiaohao Wu, Xiao Wang († denotes equal contribution), CVPR-2023 Workshop@NFVLR (New Frontiers in Visual Language Reasoning: Compositionality, Prompts and Causality),  
-[[arxiv](https://arxiv.org/abs/2304.10091)] 
+> **Learning CLIP Guided Visual-Text Fusion Transformer for Video-based Pedestrian Attribute Recognition**, Jun Zhu†, Jiandong Jin†, Zihan Yang, Xiaohao Wu, Xiao Wang († denotes equal contribution), CVPR-2023 Workshop@NFVLR, pp. 2625-2628. 2023. (New Frontiers in Visual Language Reasoning: Compositionality, Prompts and Causality),  
+[[arXiv](https://arxiv.org/abs/2304.10091)]
+[[CVF](https://openaccess.thecvf.com/content/CVPR2023W/NFVLR/papers/Zhu_Learning_CLIP_Guided_Visual-Text_Fusion_Transformer_for_Video-Based_Pedestrian_Attribute_CVPRW_2023_paper.pdf)] 
 [[Workshop](https://nfvlr-workshop.github.io/)] 
 
 
@@ -20,7 +21,7 @@ Existing pedestrian attribute recognition (PAR) algorithms are mainly developed 
 
 
 ## Training and Testing 
-
+TO BE UPDATED ... 
 
 
 
