@@ -23,9 +23,9 @@ Existing pedestrian attribute recognition (PAR) algorithms are mainly developed 
 
 
 ## Training and Testing 
-TO BE UPDATED ... 
-
-
+Use the following code to learn a model for MARS Dataset
+python ./dataset/preprocess/mars.py
+python train.py MARS
 
 ## :page_with_curl: BibTex: 
 If you find this work useful for your research, please cite the following papers: 
