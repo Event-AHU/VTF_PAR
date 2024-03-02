@@ -14,13 +14,13 @@ Existing pedestrian attribute recognition (PAR) algorithms are mainly developed 
 
 ## Requirements
 we use single RTX3090 20G GPU for training and evaluation. 
-* **Basic Environmen **
+**Basic Environmen**
 ```
 Python 3.9.16
 pytorch 1.12.1
 torchvision 0.13.1
 ```
-* **Installation**
+**Installation**
 ```
 pip install -r requirements.txt
 ```
