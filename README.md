@@ -13,13 +13,13 @@ Existing pedestrian attribute recognition (PAR) algorithms are mainly developed 
 <img src="https://github.com/Event-AHU/VTF_PAR/blob/main/figures/frameworkV4.jpg" width="800">
 
 ## Requirements
-we use single RTX3090 24G GPU for training and evaluation. 
+we use a single RTX3090 24G GPU for training and evaluation. 
 
-**Basic Environmen**
+**Basic Environment**
 ```
 Python 3.9.16
-pytorch 1.12.1
-torchvision 0.13.1
+PyTorch 1.12.1
+torch-vision 0.13.1
 ```
 **Installation**
 ```
