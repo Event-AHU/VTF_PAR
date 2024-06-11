@@ -10,6 +10,7 @@
 ### News: An extension of VTFPAR can be found at: [[VTFPAR++](https://github.com/Event-AHU/OpenPAR)] 
 > **Spatio-Temporal Side Tuning Pre-trained Foundation Models for Video-based Pedestrian Attribute Recognition**, 
 Xiao Wang, Qian Zhu, Jiandong Jin, Jun Zhu, Futian Wang, Bo Jiang, Yaowei Wang, Yonghong Tian, arXiv pre-print, arXiv, 2024
+[[Paper](https://arxiv.org/abs/2404.17929)]  
 
 
 
