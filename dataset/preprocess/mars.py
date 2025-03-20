@@ -91,15 +91,15 @@ def generate_data_description(save_dir):
         curLine=name.strip('\n')
         test_name.append(curLine)
 
-    for gt in track_name:
+    for name in track_name:
         curLine=name.strip('\n')
         track_gt_list.append(result_dict[curLine])
 
-    for gt in trainval_name:
+    for name in trainval_name:
         curLine=name.strip('\n')
         trainval_gt_list.append(result_dict[curLine])
 
-    for gt in test_name_file:
+    for name in test_name_file:
         curLine=name.strip('\n')
         test_gt_list.append(result_dict[curLine])
     #dataset.track_name=track_name
